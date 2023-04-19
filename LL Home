@@ -12,8 +12,10 @@
         <img src="pasta_salad.jpeg"width="240" height="135" alt="A Pasta Salad">
         <br>
         <br>
+        <br>
         <a href="location.html" >Our Location</a>
-         <br>
+        <br>
+        <br>
         <br>
         <style>
             table, th, td {
